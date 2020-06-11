@@ -39,7 +39,9 @@
 
   The primary topics in this part of the specialization are: shortest paths (Bellman-Ford, Floyd-Warshall, Johnson), NP-completeness and what it means for the algorithm designer, and strategies for coping with computationally intractable problems (analysis of heuristics, local search).
     
-- Week 1: 
+- Week 1: All-pairs shortest-paths：
+            Bellman-Ford
+            Floyd-Warshall
 - Week 2: Travelling salesman 
 - Week 3: Travelling salesman revisited - heuristic Method
 - Week 4: 2SAT *
