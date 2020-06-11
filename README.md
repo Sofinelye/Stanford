@@ -15,8 +15,8 @@
   The primary topics in this part of the specialization are: data structures (heaps, balanced search trees, hash tables, bloom filters), graph primitives (applications of *breadth-first and *depth-first search, connectivity, shortest paths), and their applications (ranging from deduplication to social network analysis).
 
  - Week 1: SCC Strong Connected Component:
-           [Recursive]()
-           [Iterative-for large dataset]()
+        -   [Recursive]()
+        -   [Iterative-for large dataset]()
  - Week 2: [Dijkstra Shortest Path]()
  - Week 3: [MedianbyMedian]() *
  - Week 4: [2sum]()
@@ -27,12 +27,12 @@
     
 - Week 1: [Greedy Job Schedule]()       
 - Week 2: Kruskal's MST - clustering:
-          small dataset
-          big dataset *
+         - Small dataset
+         - Big dataset *
 - Week 3: [Huffman'codes]()
 - Week 4: Knapsack Algorithm:
-          small dataset
-          big dataset *
+         - Small dataset
+         -  Big dataset *
   
     
 ## 4. Shortest Paths Revisited, NP-complete Problems and What to Do about Them
@@ -40,10 +40,11 @@
   The primary topics in this part of the specialization are: shortest paths (Bellman-Ford, Floyd-Warshall, Johnson), NP-completeness and what it means for the algorithm designer, and strategies for coping with computationally intractable problems (analysis of heuristics, local search).
     
 - Week 1: All-pairs shortest-paths：
-            Bellman-Ford
-            Floyd-Warshall
+          - Bellman-Ford
+          - Floyd-Warshall
 - Week 2: Travelling salesman 
-- Week 3: Travelling salesman revisited - heuristic Method
+- Week 3: Travelling salesman revisited:
+          - heuristic Method
 - Week 4: 2SAT *
     
   
