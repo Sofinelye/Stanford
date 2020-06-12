@@ -6,9 +6,14 @@
   The primary topics in this part of the specialization are: asymptotic ("Big-oh") notation, sorting and searching, divide and conquer (master method, integer and matrix multiplication, closest pair), and randomized algorithms (QuickSort, contraction algorithm for min cuts).
 
  - Week 1: [Karasuba](https://github.com/Sofinelye/Stanford/blob/master/Course_1/IntegerArray.py)
+ 
  - Week 2: [IntegerArray](https://github.com/Sofinelye/Stanford/blob/master/Course_1/IntegerArray.py)
+ 
  - Week 3: [MergeSort](https://github.com/Sofinelye/Stanford/blob/master/Course_1/MergeSort.py)
- - Week 4: [kargerMinCut](https://github.com/Sofinelye/Stanford/blob/master/Course_1/Karger.py) *
+ 
+ - Week 4: [kargerMinCut](https://github.com/Sofinelye/Stanford/blob/master/Course_1/Karger.py)
+ 
+     - [Lecture slides](https://github.com/Sofinelye/Stanford/blob/master/algo1slides/Part%209/slides_algo-karger-algorithm_typed.pdf)
     
 ## 2. Graph Search, Shortest Paths, and Data Structures
 
