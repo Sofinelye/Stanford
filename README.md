@@ -27,9 +27,21 @@
         
       -   [Iterative-for large dataset](https://github.com/Sofinelye/Stanford/blob/master/Course_2/Assignment%201/SCC_dfs_iterative.py)
       
- - Week 2: [Dijkstra Shortest Path]()
- - Week 3: [MedianbyMedian]() *
- - Week 4: [2sum]()
+ - Week 2: [Dijkstra Shortest Path - Min Heap Tree](https://github.com/Sofinelye/Stanford/blob/master/Course_2/Assignment%202/dijkstra_YL.py)
+ - Week 3: Heaps Data Structure and their applications
+ 
+      - Applications:
+         - [MedianbyMedian]()
+      
+         - Speed up Dijkstra (see Week2)
+ 
+      - [Lecture slides](https://github.com/Sofinelye/Stanford/blob/master/algo1slides/Part%2012/slides_algo-ds-heaps-basics_typed.pdf)
+    
+ - Week 4: Hashtable
+ 
+      - [Universal Hash - Slides](https://github.com/Sofinelye/Stanford/tree/master/algo1slides/Part%2015)
+ 
+      - [2sum](https://github.com/Sofinelye/Stanford/blob/master/Course_2/Assignment%204/2sum.py)
 
 ## 3. Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
 
