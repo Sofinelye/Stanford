@@ -15,7 +15,7 @@
  
      - [Lecture slides](https://github.com/Sofinelye/Stanford/blob/master/algo1slides/Part%209/slides_algo-karger-algorithm_typed.pdf)
     
-## 2. Graph Search, Shortest Paths, and Data Structures
+## 2. [Graph Search, Shortest Paths, and Data Structures](https://github.com/Sofinelye/Stanford/tree/master/algo2slides/Part%202)
 
   The primary topics in this part of the specialization are: data structures (heaps, balanced search trees, hash tables, bloom filters), graph primitives (applications of *breadth-first and *depth-first search, connectivity, shortest paths), and their applications (ranging from deduplication to social network analysis).
 
@@ -47,10 +47,14 @@
 
   The primary topics in this part of the specialization are: greedy   algorithms (scheduling, minimum spanning trees, clustering, Huffman codes) and dynamic programming (knapsack, sequence alignment, optimal search trees).
     
-- Week 1: [Greedy Job Schedule]()       
+- Week 1: Greedy Job Schedule
+
+     - [Lecture Slides](https://github.com/Sofinelye/Stanford/tree/master/algo2slides/Part%204)       
 - Week 2: Kruskal's MST - clustering:
-         - Small dataset
-         - Big dataset *
+
+     - Small dataset
+       
+     - Big dataset *
 - Week 3: [Huffman'codes]()
 - Week 4: Knapsack Algorithm:
 
