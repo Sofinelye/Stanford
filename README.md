@@ -20,8 +20,13 @@
   The primary topics in this part of the specialization are: data structures (heaps, balanced search trees, hash tables, bloom filters), graph primitives (applications of *breadth-first and *depth-first search, connectivity, shortest paths), and their applications (ranging from deduplication to social network analysis).
 
  - Week 1: SCC Strong Connected Component:
-        -   [Recursive]()
-        -   [Iterative-for large dataset]()
+ 
+      -   [Lecture Slides](https://github.com/Sofinelye/Stanford/blob/master/algo1slides/Part%2010/slides_algo-graphs-scc_typed.pdf)
+      
+      -   [Recursive](https://github.com/Sofinelye/Stanford/blob/master/Course_2/Assignment%201/SCC_dfs_recursive.py)
+        
+      -   [Iterative-for large dataset](https://github.com/Sofinelye/Stanford/blob/master/Course_2/Assignment%201/SCC_dfs_iterative.py)
+      
  - Week 2: [Dijkstra Shortest Path]()
  - Week 3: [MedianbyMedian]() *
  - Week 4: [2sum]()
@@ -36,8 +41,10 @@
          - Big dataset *
 - Week 3: [Huffman'codes]()
 - Week 4: Knapsack Algorithm:
-         - Small dataset
-         -  Big dataset *
+
+  - Small dataset
+         
+  -  Big dataset *
   
     
 ## 4. Shortest Paths Revisited, NP-complete Problems and What to Do about Them
