@@ -5,7 +5,10 @@
 
   The primary topics in this part of the specialization are: asymptotic ("Big-oh") notation, sorting and searching, divide and conquer (master method, integer and matrix multiplication, closest pair), and randomized algorithms (QuickSort, contraction algorithm for min cuts).
 
- - Week 1: [Karasuba](https://github.com/Sofinelye/Stanford/blob/master/Course_1/Karatsuba.py)
+ - Week 1:
+     - [Karasuba](https://github.com/Sofinelye/Stanford/blob/master/Course_1/Karatsuba.py)
+ 
+     - [Asymptomatic (Slides)](https://github.com/Sofinelye/Stanford/tree/master/algo1slides/Part%202)
  
  - Week 2: [IntegerArray](https://github.com/Sofinelye/Stanford/blob/master/Course_1/IntegerArray.py)
  
