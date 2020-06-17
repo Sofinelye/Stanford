@@ -14,9 +14,11 @@
  
  - Week 3: [MergeSort](https://github.com/Sofinelye/Stanford/blob/master/Course_1/MergeSort.py)
  
+    - [Lecture Slides](https://github.com/Sofinelye/Stanford/tree/master/algo1slides/Part%201) 
+ 
  - Week 4: [kargerMinCut](https://github.com/Sofinelye/Stanford/blob/master/Course_1/Karger.py)
  
-     - [Lecture slides](https://github.com/Sofinelye/Stanford/blob/master/algo1slides/Part%209/slides_algo-karger-algorithm_typed.pdf)
+    - [Lecture slides](https://github.com/Sofinelye/Stanford/blob/master/algo1slides/Part%209/slides_algo-karger-algorithm_typed.pdf)
     
 ## 2. [Graph Search, Shortest Paths, and Data Structures](https://github.com/Sofinelye/Stanford/tree/master/algo2slides/Part%202)
 
@@ -34,6 +36,7 @@
  - Week 3: Heaps Data Structure and their applications
  
       - Applications:
+      
          - [MedianbyMedian]()
       
          - Speed up Dijkstra (see Week2)
