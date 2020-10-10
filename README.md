@@ -58,7 +58,7 @@
      - [Lecture Slides](https://github.com/Sofinelye/Stanford/tree/master/algo2slides/Part%204)       
 - Week 2: Kruskal's MST - clustering:
 
-     - Small dataset
+     - [Small dataset](https://github.com/Sofinelye/Stanford/blob/master/Course_3/Assignment%202/cluster_YL.py)
        
      - Big dataset *
 - Week 3: [Huffman'codes]()
