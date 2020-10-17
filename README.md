@@ -76,7 +76,7 @@
 - Week 1: All-pairs shortest-paths：
           - Bellman-Ford
           - Floyd-Warshall
-- Week 2: Travelling salesman 
+- Week 2: [Travelling salesman](https://github.com/Sofinelye/Stanford/blob/master/Course_4/Assignment%203/TSP_heuristic.py)
 - Week 3: Travelling salesman revisited:
           - heuristic Method
 - Week 4: 2SAT *
