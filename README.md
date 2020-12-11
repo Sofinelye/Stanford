@@ -61,7 +61,7 @@
      - [Small dataset](https://github.com/Sofinelye/Stanford/blob/master/Course_3/Assignment%202/cluster_YL.py)
        
      - Big dataset *
-- Week 3: [Huffman'codes]()
+- Week 3: [Huffman'codes](https://github.com/Sofinelye/Stanford/blob/master/Course_3/Assignment%203/huffman.py)
 - Week 4: Knapsack Algorithm:
 
   - Small dataset
