@@ -78,8 +78,9 @@
           - Floyd-Warshall
 - Week 2: [Travelling salesman](https://github.com/Sofinelye/Stanford/blob/master/Course_4/Assignment%203/TSP_heuristic.py)
 - Week 3: Travelling salesman revisited:
-          - heuristic Method
-- Week 4: 2SAT *
+          - [heuristic Method]()
+- Week 4: [SAT *](https://github.com/Sofinelye/Stanford/blob/master/Course_4/Assignment%204/2satout.py)
+
     
   
 
