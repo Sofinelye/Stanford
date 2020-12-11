@@ -62,11 +62,9 @@
        
      - Big dataset *
 - Week 3: [Huffman'codes](https://github.com/Sofinelye/Stanford/blob/master/Course_3/Assignment%203/huffman.py)
-- Week 4: Knapsack Algorithm:
+- Week 4: [Knapsack Algorithm](https://github.com/Sofinelye/Stanford/blob/master/Course_3/Assignment%204/Knapsack.py)
 
-  - Small dataset
-         
-  -  Big dataset *
+ 
   
     
 ## 4. Shortest Paths Revisited, NP-complete Problems and What to Do about Them
